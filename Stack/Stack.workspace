@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Stack" Database="" Version="10.0.0">
+  <Project Name="StackUsingArray" Path="StackUsingArray/StackUsingArray.project" Active="No"/>
+  <Project Name="StackUsingLinkedList" Path="StackUsingLinkedList/StackUsingLinkedList.project" Active="No"/>
+  <Project Name="ParanthesisMatching" Path="ParanthesisMatching/ParanthesisMatching.project" Active="No"/>
+  <Project Name="InfixToPostfix" Path="InfixToPostfix/InfixToPostfix.project" Active="No"/>
+  <Project Name="EvaluatePostfix" Path="EvaluatePostfix/EvaluatePostfix.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="StackUsingArray" ConfigName="Debug"/>
+      <Project Name="StackUsingLinkedList" ConfigName="Debug"/>
+      <Project Name="ParanthesisMatching" ConfigName="Debug"/>
+      <Project Name="InfixToPostfix" ConfigName="Debug"/>
+      <Project Name="EvaluatePostfix" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="StackUsingArray" ConfigName="Release"/>
+      <Project Name="StackUsingLinkedList" ConfigName="Release"/>
+      <Project Name="ParanthesisMatching" ConfigName="Release"/>
+      <Project Name="InfixToPostfix" ConfigName="Release"/>
+      <Project Name="EvaluatePostfix" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
