@@ -4,7 +4,9 @@
   <Project Name="StackUsingLinkedList" Path="StackUsingLinkedList/StackUsingLinkedList.project" Active="No"/>
   <Project Name="ParanthesisMatching" Path="ParanthesisMatching/ParanthesisMatching.project" Active="No"/>
   <Project Name="InfixToPostfix" Path="InfixToPostfix/InfixToPostfix.project" Active="No"/>
-  <Project Name="EvaluatePostfix" Path="EvaluatePostfix/EvaluatePostfix.project" Active="Yes"/>
+  <Project Name="EvaluatePostfix" Path="EvaluatePostfix/EvaluatePostfix.project" Active="No"/>
+  <Project Name="ReverseLinkedList" Path="ReverseLinkedList/ReverseLinkedList.project" Active="Yes"/>
+  <Project Name="Factorial" Path="Factorial/Factorial.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -13,6 +15,8 @@
       <Project Name="ParanthesisMatching" ConfigName="Debug"/>
       <Project Name="InfixToPostfix" ConfigName="Debug"/>
       <Project Name="EvaluatePostfix" ConfigName="Debug"/>
+      <Project Name="ReverseLinkedList" ConfigName="Debug"/>
+      <Project Name="Factorial" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -21,6 +25,8 @@
       <Project Name="ParanthesisMatching" ConfigName="Release"/>
       <Project Name="InfixToPostfix" ConfigName="Release"/>
       <Project Name="EvaluatePostfix" ConfigName="Release"/>
+      <Project Name="ReverseLinkedList" ConfigName="Release"/>
+      <Project Name="Factorial" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
