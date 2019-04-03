@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="F:\C++ Programs\Data structure\Stack\Stack.workspace">
+  <int Value="5" Name="m_selectedTab"/>
+  <wxString Value="F:\C++ Programs\Data structure\Stack\Stack.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="F:\C++ Programs\Data structure\Stack\StackUsingArray\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\C++ Programs\Data structure\Stack\StackUsingLinkedList\main.cpp" Name="FileName"/>
+      <int Value="57" Name="FirstVisibleLine"/>
+      <int Value="77" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\C++ Programs\Data structure\Stack\ParanthesisMatching\main.cpp" Name="FileName"/>
+      <int Value="54" Name="FirstVisibleLine"/>
+      <int Value="73" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\C++ Programs\Data structure\Stack\InfixToPostfix\main.cpp" Name="FileName"/>
+      <int Value="68" Name="FirstVisibleLine"/>
+      <int Value="88" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\C++ Programs\Data structure\Stack\EvaluatePostfix\main.cpp" Name="FileName"/>
+      <int Value="79" Name="FirstVisibleLine"/>
+      <int Value="98" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\C++ Programs\Data structure\Stack\ReverseLinkedList\main.cpp" Name="FileName"/>
+      <int Value="7" Name="FirstVisibleLine"/>
+      <int Value="16" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\C++ Programs\Data structure\Stack\Factorial\main.cpp" Name="FileName"/>
+      <int Value="22" Name="FirstVisibleLine"/>
+      <int Value="24" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc" Name="m_findInFilesMask"/>
+</Session>
