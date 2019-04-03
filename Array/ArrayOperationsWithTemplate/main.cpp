@@ -95,7 +95,18 @@ int main()
     objf.display();
     cout<<objf.deleteElement(1)<<endl;
     objf.display();
+    cout<<endl;
     
+    Array<char> objc(10);                 //Array changed from Array to Array<char> for char type array
+    
+    objc.insert(0,'a');
+    objc.insert(1,'b');
+    objc.insert(2,'c');
+    objc.display();
+    cout<<objc.deleteElement(1)<<endl;
+    objc.display();
+    
+    cout<<endl;
     cout<<endl;
     return 0;
 }
