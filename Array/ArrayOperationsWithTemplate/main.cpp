@@ -87,7 +87,7 @@ int main()
     obj.display();
     cout<<endl;
     
-    Array<float> objf(10);                 //Array changed from Array to Array<int> for interger type array
+    Array<float> objf(10);                 //Array changed from Array to Array<float> for float type array
     
     objf.insert(0,5.6);
     objf.insert(1,6);
