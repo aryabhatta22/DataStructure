@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ ArrayOperations - Debug ]----------"
-	@cd "ArrayAllOperations" && "$(MAKE)" -f  "ArrayOperations.mk"
+	@echo "----------Building project:[ ArrayOperationsWithTemplate - Debug ]----------"
+	@cd "ArrayOperationsWithTemplate" && "$(MAKE)" -f  "ArrayOperationsWithTemplate.mk"
 clean:
-	@echo "----------Cleaning project:[ ArrayOperations - Debug ]----------"
-	@cd "ArrayAllOperations" && "$(MAKE)" -f  "ArrayOperations.mk" clean
+	@echo "----------Cleaning project:[ ArrayOperationsWithTemplate - Debug ]----------"
+	@cd "ArrayOperationsWithTemplate" && "$(MAKE)" -f  "ArrayOperationsWithTemplate.mk" clean
