@@ -5,8 +5,10 @@
   <Project Name="ParanthesisMatching" Path="ParanthesisMatching/ParanthesisMatching.project" Active="No"/>
   <Project Name="InfixToPostfix" Path="InfixToPostfix/InfixToPostfix.project" Active="No"/>
   <Project Name="EvaluatePostfix" Path="EvaluatePostfix/EvaluatePostfix.project" Active="No"/>
-  <Project Name="ReverseLinkedList" Path="ReverseLinkedList/ReverseLinkedList.project" Active="Yes"/>
+  <Project Name="ReverseLinkedList" Path="ReverseLinkedList/ReverseLinkedList.project" Active="No"/>
   <Project Name="Factorial" Path="Factorial/Factorial.project" Active="No"/>
+  <Project Name="ReverseNumber" Path="ReverseNumber/ReverseNumber.project" Active="No"/>
+  <Project Name="AddDigitsNumber" Path="AddDigitsNumber/AddDigitsNumber.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -17,6 +19,8 @@
       <Project Name="EvaluatePostfix" ConfigName="Debug"/>
       <Project Name="ReverseLinkedList" ConfigName="Debug"/>
       <Project Name="Factorial" ConfigName="Debug"/>
+      <Project Name="ReverseNumber" ConfigName="Debug"/>
+      <Project Name="AddDigitsNumber" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -27,6 +31,8 @@
       <Project Name="EvaluatePostfix" ConfigName="Release"/>
       <Project Name="ReverseLinkedList" ConfigName="Release"/>
       <Project Name="Factorial" ConfigName="Release"/>
+      <Project Name="ReverseNumber" ConfigName="Release"/>
+      <Project Name="AddDigitsNumber" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
