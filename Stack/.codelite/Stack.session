@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="F:\C++ Programs\Data structure\Stack\Stack.workspace">
-  <int Value="5" Name="m_selectedTab"/>
+  <int Value="8" Name="m_selectedTab"/>
   <wxString Value="F:\C++ Programs\Data structure\Stack\Stack.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
@@ -12,35 +12,35 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="F:\C++ Programs\Data structure\Stack\StackUsingLinkedList\main.cpp" Name="FileName"/>
-      <int Value="57" Name="FirstVisibleLine"/>
+      <int Value="75" Name="FirstVisibleLine"/>
       <int Value="77" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="F:\C++ Programs\Data structure\Stack\ParanthesisMatching\main.cpp" Name="FileName"/>
-      <int Value="54" Name="FirstVisibleLine"/>
+      <int Value="71" Name="FirstVisibleLine"/>
       <int Value="73" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="F:\C++ Programs\Data structure\Stack\InfixToPostfix\main.cpp" Name="FileName"/>
-      <int Value="68" Name="FirstVisibleLine"/>
+      <int Value="86" Name="FirstVisibleLine"/>
       <int Value="88" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="F:\C++ Programs\Data structure\Stack\EvaluatePostfix\main.cpp" Name="FileName"/>
-      <int Value="79" Name="FirstVisibleLine"/>
+      <int Value="96" Name="FirstVisibleLine"/>
       <int Value="98" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="F:\C++ Programs\Data structure\Stack\ReverseLinkedList\main.cpp" Name="FileName"/>
-      <int Value="7" Name="FirstVisibleLine"/>
+      <int Value="14" Name="FirstVisibleLine"/>
       <int Value="16" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
@@ -48,6 +48,20 @@
     <TabInfo>
       <wxString Value="F:\C++ Programs\Data structure\Stack\Factorial\main.cpp" Name="FileName"/>
       <int Value="22" Name="FirstVisibleLine"/>
+      <int Value="24" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\C++ Programs\Data structure\Stack\ReverseNumber\main.cpp" Name="FileName"/>
+      <int Value="16" Name="FirstVisibleLine"/>
+      <int Value="31" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\C++ Programs\Data structure\Stack\AddDigitsNumber\main.cpp" Name="FileName"/>
+      <int Value="13" Name="FirstVisibleLine"/>
       <int Value="24" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
