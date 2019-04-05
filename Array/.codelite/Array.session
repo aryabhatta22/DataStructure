@@ -4,9 +4,16 @@
   <wxString Value="F:\C++ Programs\Data structure\Array\Array.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
+      <wxString Value="F:\C++ Programs\Data structure\Array\DuplicationDeletion\main.cpp" Name="FileName"/>
+      <int Value="111" Name="FirstVisibleLine"/>
+      <int Value="121" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
       <wxString Value="F:\C++ Programs\Data structure\Array\ArrayOperationsWithTemplate\main.cpp" Name="FileName"/>
-      <int Value="88" Name="FirstVisibleLine"/>
-      <int Value="97" Name="CurrentLine"/>
+      <int Value="54" Name="FirstVisibleLine"/>
+      <int Value="75" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

@@ -43,7 +43,7 @@ public:
 template<class T>
 void Array<T>::insert(int index, T x){          
     if(index>=0&&index<=length){
-        for(int i=length-1; i>=index;i++){         
+        for(int i=length-1; i>=index;i--){         
             Arr[i+1]=Arr[i];
         }
         

@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ DuplicationDeletion - Debug ]----------"
-	@cd "DuplicationDeletion" && "$(MAKE)" -f  "DuplicationDeletion.mk"
+	@echo "----------Building project:[ demo - Debug ]----------"
+	@cd "demo" && "$(MAKE)" -f  "demo.mk"
 clean:
-	@echo "----------Cleaning project:[ DuplicationDeletion - Debug ]----------"
-	@cd "DuplicationDeletion" && "$(MAKE)" -f  "DuplicationDeletion.mk" clean
+	@echo "----------Cleaning project:[ demo - Debug ]----------"
+	@cd "demo" && "$(MAKE)" -f  "demo.mk" clean

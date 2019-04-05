@@ -51,7 +51,7 @@ void Array::display(){
 
 void Array::insert(int index, int x){
     if(index>=0&&index<=length){
-        for(int i=length-1; i>=index;i++){          //to shift the elements from end of array to index where element is to be inserted
+        for(int i=length-1; i>=index;i--){          //to shift the elements from end of array to index where element is to be inserted
             Arr[i+1]=Arr[i];
         }
         
@@ -79,6 +79,8 @@ int main()
     obj.insert(0,5);
     obj.insert(1,6);
     obj.insert(2,9);
+    obj.display();
+    obj.insert(1,40);
     obj.display();
     cout<<obj.deleteElement(1)<<endl;
     obj.display();

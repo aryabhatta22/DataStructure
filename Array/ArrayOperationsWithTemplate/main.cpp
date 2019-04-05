@@ -53,7 +53,7 @@ void Array<T>::display(){           //Array changed to Array<T>
 template<class T>                               //template<class T> should be included before every function definition
 void Array<T>::insert(int index, T x){          //inserting element x type changed from int to T, Array changed to Array<T>
     if(index>=0&&index<=length){
-        for(int i=length-1; i>=index;i++){         
+        for(int i=length-1; i>=index;i--){         
             Arr[i+1]=Arr[i];
         }
         
