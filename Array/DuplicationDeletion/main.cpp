@@ -114,22 +114,22 @@ int main()
     cout<<"\nFor min deletions:"<<endl;
     
     
-    Array<int> obj(4);
-    obj.getpattern(4);
+    Array<int> obj(5);
+    obj.getpattern(5);
     cout<<"\nCurrent Array:";
     obj.display();
-    obj.minDel(4);
+    obj.minDel(5);
     cout<<"\nArray after deltion: ";
     obj.display();
     
     cout<<"============================================"<<endl;
     cout<<"\nFor max deletions:"<<endl;
     
-    Array<int> obj2(4);
-    obj2.getpattern(4);
+    Array<int> obj2(5);
+    obj2.getpattern(5);
     cout<<"\nCurrent Array:";
     obj2.display();
-    obj2.maxDel(4);
+    obj2.maxDel(5);
     cout<<"\nArray after deltion: ";
     obj.display();
     

@@ -8,7 +8,8 @@
   <Project Name="ReverseLinkedList" Path="ReverseLinkedList/ReverseLinkedList.project" Active="No"/>
   <Project Name="Factorial" Path="Factorial/Factorial.project" Active="No"/>
   <Project Name="ReverseNumber" Path="ReverseNumber/ReverseNumber.project" Active="No"/>
-  <Project Name="AddDigitsNumber" Path="AddDigitsNumber/AddDigitsNumber.project" Active="Yes"/>
+  <Project Name="AddDigitsNumber" Path="AddDigitsNumber/AddDigitsNumber.project" Active="No"/>
+  <Project Name="AddDigitsNumber_Type2" Path="AddDigitsNumber_Type2/AddDigitsNumber_Type2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -21,6 +22,7 @@
       <Project Name="Factorial" ConfigName="Debug"/>
       <Project Name="ReverseNumber" ConfigName="Debug"/>
       <Project Name="AddDigitsNumber" ConfigName="Debug"/>
+      <Project Name="AddDigitsNumber_Type2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -33,6 +35,7 @@
       <Project Name="Factorial" ConfigName="Release"/>
       <Project Name="ReverseNumber" ConfigName="Release"/>
       <Project Name="AddDigitsNumber" ConfigName="Release"/>
+      <Project Name="AddDigitsNumber_Type2" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Array" Database="" Version="10.0.0">
   <Project Name="ArrayOperations" Path="ArrayAllOperations/ArrayAllOperations.project" Active="No"/>
-  <Project Name="ArrayOperationsWithTemplate" Path="ArrayOperationsWithTemplate/ArrayOperationsWithTemplate.project" Active="Yes"/>
-  <Project Name="DuplicationDeletion" Path="DuplicationDeletion/DuplicationDeletion.project" Active="No"/>
+  <Project Name="ArrayOperationsWithTemplate" Path="ArrayOperationsWithTemplate/ArrayOperationsWithTemplate.project" Active="No"/>
+  <Project Name="DuplicationDeletion" Path="DuplicationDeletion/DuplicationDeletion.project" Active="Yes"/>
   <Project Name="demo" Path="demo/demo.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">

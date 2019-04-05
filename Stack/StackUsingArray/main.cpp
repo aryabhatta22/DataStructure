@@ -22,7 +22,7 @@ public:
     T[this->size];}
     void push(T x);
     T pop();
-    T peek(int index);
+    T peek(int pos);
     int stacktop();
     int isEmpty();
     int isFull();
@@ -59,13 +59,13 @@ T Stack<T>::pop()
 
 template<class T>
 
-T Stack<T>::peek(int index)
+T Stack<T>::peek(int pos)
 {
     T x=-1;
-    if(top-index+1<0)
+    if(top-pos+1<0)
         cout<<"Invalid Index"<<endl;
     else
-        x=st[top-index+1];
+        x=st[top-pos+1];
     return x;
 }
 
